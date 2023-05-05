@@ -1,4 +1,4 @@
-# Hola 👋 Me llamo Roberto :smiley: 
+#Hola 👋 Me llamo Roberto :smiley: 
 ## Soy nuevo desarrollador, pero me apasiona el este nuevo mundo. Puedes saber mas de mi aquí: [@RobertoCruz](https://www.linkedin.com/in/roberto-cruz-guerrero-605b10188/)
 ![LETRETO DE UNDER CONSTRUCTION](https://static.vecteezy.com/system/resources/previews/001/214/905/original/under-construction-sign-with-hat-on-traffic-cone-vector.jpg)
 --------------------
@@ -41,4 +41,3 @@ acerca_de_mi ={
 Fundamentos de programación en python|Youtube|git y Github|
 |mes de datos| microsoft | git y github|
 |Python|IBM|Python|
-
