@@ -1,5 +1,5 @@
 # Hola 👋 Me llamo Roberto :smiley:  / Hello 👋 My name is Roberto :smiley:
-## Soy un nuevo desarrollador, pero este nuevo mundo me apasiona. Puedes saber más de mí aquí: [@RobertoCruz] /
+## Soy un nuevo desarrollador, pero este nuevo mundo me apasiona. Puedes saber más de mí aquí: [@RobertoCruz](https://www.linkedin.com/in/roberto-cruz-guerrero-605b10188/)/
 I am a new developer, but I am passionate about this new world. You can learn more about me here: [@RobertoCruz](https://www.linkedin.com/in/roberto-cruz-guerrero-605b10188/)
 ![LETRETO DE UNDER CONSTRUCTION](https://static.vecteezy.com/system/resources/previews/001/214/905/original/under-construction-sign-with-hat-on-traffic-cone-vector.jpg)
 --------------------
@@ -27,15 +27,12 @@ acerca_de_mi = {
     "experiencia": ["Equipos Médicos"],
     "gatos": True,
     "country": "Mexicano",
-    "main_languages": [
-        "Python", "HTML"
-    ],
-    "secondary_languages": [
-        "SQL", "CSS", "C", "C++"
-    ]
+    "main_languages": ["Python", "HTML" ],
+    "secondary_languages": [ "SQL", "CSS", "C", "C++"].
 }
 
 ```
+ # Sigueme en
 ### Sigueme en
 [![TEXTO ALTERNATIVO](/linkedin-logo.png)]((https://www.linkedin.com/in/roberto-cruz-guerrero-605b10188/))
 
