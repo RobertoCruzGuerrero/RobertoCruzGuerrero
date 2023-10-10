@@ -31,7 +31,7 @@ acerca_de_mi = {
     "secondary_languages": [ "SQL", "CSS", "C", "C++"].
 }
 
-```
+
  # Sigueme en
 ### Sigueme en
 [![TEXTO ALTERNATIVO](/linkedin-logo.png)]((https://www.linkedin.com/in/roberto-cruz-guerrero-605b10188/))
